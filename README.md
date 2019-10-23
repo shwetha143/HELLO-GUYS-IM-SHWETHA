@@ -1,3 +1,10 @@
-# HELLO-GUYS-IM-SHWETHA
-JUST ANOTHER REPOSITORY
-IM CREATING A NEW WEBSITES
+<html>
+  <head>
+    <title>
+      weekend project
+    </title>
+  </head>
+  <body>
+    hello world
+  </body>
+  </html>
